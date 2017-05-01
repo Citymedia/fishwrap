@@ -1,0 +1,9 @@
+##ACAP version=1.0
+
+User-agent: *
+Disallow: /webstats/
+
+ACAP-crawler: *
+# User-agent: *
+ACAP-disallow-crawl: /webstats/
+# Disallow: /webstats/

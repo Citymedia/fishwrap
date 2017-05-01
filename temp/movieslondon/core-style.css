@@ -1,0 +1,168 @@
+body {
+   font-family : verdana, arial, sans-serif;
+   font-size:1em;
+   background-color : #ffffff;
+   color : #000000;
+   }
+   
+h1 {
+   font-family : verdana, arial, sans-serif;
+   }
+   
+h2 {
+   font-family : verdana, arial, sans-serif;
+   }
+   
+/* hr {
+   width:728px;
+   } */
+   
+p {
+   font-family : arial, verdana, sans-serif;
+   font-size:.75em;
+   text-align : left;
+}
+   
+a:hover {
+   background-color : #00ffff;
+   color : #c0c0c0;
+}
+
+table {
+   width : 728px;
+   border : none;
+   padding : 3px;
+}
+
+th {
+   font-family : verdana, arial, sans-serif;
+   font-size:1em;
+   }
+
+th span {
+   font-size:.75em;
+}
+
+th span.minus2 {
+   font-size:.625em;
+}
+
+th.est {
+   width:8%;
+}
+
+th.newspaper {
+   width:20%;
+}
+
+th.newspapers {
+   width:30%;
+}
+
+td {
+   font-family : arial, verdana, sans-serif;
+   font-size:.75em;
+   }
+
+td span {
+   font-size:.80em;
+}
+
+td span.minus2 {
+   font-size:.625em;
+}
+
+td.circ {
+   text-align : right;
+   }
+
+td.newspaper {
+   font-family : verdana, arial, sans-serif;
+   width:20%;
+   }
+
+td.newspapers {
+   font-family : verdana, arial, sans-serif;
+   width:30%;
+}
+
+ul {
+   text-align : left;
+   font-weight : normal
+   }
+   
+address {
+   font-family : arial, verdana, sans-serif;
+   font-size:.75em;
+}
+
+.banner {
+  vertical-align: top;
+  }
+   
+.ccc {
+   background-color : #cccccc;
+   color : #000000;
+   }
+
+.citymedia {
+   background : #000000;
+   color : #ffffff;
+   font-family : arial, helvetica, sans-serif;
+   text-align : left;
+   }
+   
+.f90 {
+   background-color : #ff9900;
+   color : #000000;
+   }
+   
+.ff0 {
+   background-color : #ffff00;
+   color : #000000;
+   }
+   
+.ff6 {
+   background-color : #ffff66;
+   color : #000000;
+   }
+   
+.ffc {
+   background-color : #ffffcc;
+   color : #000000;
+   }
+   
+.gold {
+   background-color : #ffd700;
+   color : #000000;
+   }
+   
+.h3 {
+   background-color : #ffcc99;
+   color : #000000;
+   font-family : verdana, arial, sans-serif;
+   font-size: 1.17em;
+   padding: 18px;
+   }
+
+.leaderboard {
+   position: absolute;
+   padding: 41px;
+   top: 0px;
+   margin-left: 80px;
+   }
+
+.logo {
+   vertical-align: top;
+   padding: 12px;
+   }
+
+.metro {
+   background : #ffff00;
+   color : #000000;
+   }
+
+.wideskyscraper {
+   background : #ffffff;
+   color : #000000;
+   }
